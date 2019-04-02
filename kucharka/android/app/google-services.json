@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "207977365629",
+    "firebase_url": "https://kucharka-red-wolf.firebaseio.com",
+    "project_id": "kucharka-red-wolf",
+    "storage_bucket": "kucharka-red-wolf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207977365629:android:a8b8f3d7af5b16fd",
+        "android_client_info": {
+          "package_name": "cz.redwolf.kucharka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207977365629-j1ogalvau90dpt22ru37tlb1ge9a5ive.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cz.redwolf.kucharka",
+            "certificate_hash": "0d6a1003ae0c9f94f5f6821a1f7fcd94431c068a"
+          }
+        },
+        {
+          "client_id": "207977365629-cb5c2rph4ms7r9520jrdo49p0e795u00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbtei_w0rvkbJg5xcBQT_MA8gU1xeEtNo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207977365629-cb5c2rph4ms7r9520jrdo49p0e795u00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
